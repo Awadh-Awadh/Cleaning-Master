@@ -1,0 +1,7 @@
+#hero {
+    background-image: url("./Assets/windows.jpg");
+    background-size: cover;
+    background-position: center;
+    height: 70vh;
+  }
+  
